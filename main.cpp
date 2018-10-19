@@ -1,6 +1,6 @@
 /**
 
-Description: Program consisting of two functions, one stores a users response to a prompt as a string, the other tests that string for a preset char and returns the amount of occurances.
+Description: Program consisting of two functions. One stores a user's response to a prompt as a string, the other tests that string for a preset char and returns the amount of occurances.
 Filename: midterm.cpp
 Author: Matthew Herrera
 Date: Thu Oct 18 18:44:57 PDT 2018
